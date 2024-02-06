@@ -1,10 +1,9 @@
-
 <script>
-import Reactivity from './components/Reactivity.svelte'
-import Navbar from './components/Navbar.svelte'
+  import Navbar from "./components/Navbar.svelte";
+  import CarouselVideo from "./components/CarouselVideo.svelte";
 </script>
 
 <main>
-<Navbar />
-	
+  <Navbar />
+  <CarouselVideo />
 </main>
